@@ -6,3 +6,4 @@ const images = [
     './assets/5.jpg',
     './assets/6.jpg'
 ]
+
